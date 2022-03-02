@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_share"
+        android:title="دعوة الاصدقاء" />
+    <item
+        android:id="@+id/meun_rating"
+        android:title="تقييم التطبيق" />
+    <item
+        android:id="@+id/menu_ourApps"
+        android:title="تطبيقاتنا" />
+</menu>

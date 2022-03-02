@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "129690081565",
+    "firebase_url": "https://usefull-websites-default-rtdb.firebaseio.com",
+    "project_id": "usefull-websites",
+    "storage_bucket": "usefull-websites.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129690081565:android:a6246108fa0de60f7c69f4",
+        "android_client_info": {
+          "package_name": "com.qashar.stopshying"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129690081565-mfujr8vl5n8lkhrh5m179c1hp78ig9b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR5BJf4oDIn8dv-6u1WRwqXLP3IKgvGrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129690081565-mfujr8vl5n8lkhrh5m179c1hp78ig9b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129690081565:android:71512b1cc35e70fb7c69f4",
+        "android_client_info": {
+          "package_name": "com.qashar.usefullwebsites"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129690081565-mfujr8vl5n8lkhrh5m179c1hp78ig9b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR5BJf4oDIn8dv-6u1WRwqXLP3IKgvGrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129690081565-mfujr8vl5n8lkhrh5m179c1hp78ig9b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
