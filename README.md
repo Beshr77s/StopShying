@@ -1,2 +1,2 @@
 # StopShying
-[App In google play]{https://play.google.com/store/apps/details?id=com.qashar.stopshying}
+[App In GooglePlay](https://play.google.com/store/apps/details?id=com.qashar.stopshying)
